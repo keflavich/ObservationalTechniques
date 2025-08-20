@@ -13,6 +13,7 @@
 | Columbia University | ASTR UN1903 — Astronomy Lab I | Not listed on department page | — | [Dept. page](https://physics.columbia.edu/courses/astr-un1903), [Bulletin](https://bulletin.columbia.edu/columbia-college/departments-instruction/astronomy/) |
 | College of Staten Island (CUNY) | AST 105 — Observational Astronomy | Not listed on catalog page | — | [Catalog](https://csi-undergraduate.catalog.cuny.edu/courses/0616791) |
 | University of Sheffield | PHY217 — Observational Astronomy (legacy materials) | Vik Dhillon (materials) | Legacy | [Materials](https://sheffield-mps.github.io/PHY217/) |
+| Rochester Institute of Technology | AST 613 — Astronomical Observational Techniques and Instrumentation | Michael Richmond | Fall 2025 | [Syllabus](http://spiff.rit.edu/classes/ast613/ast613.html) |
 
 Notes
 - Entries reflect the most recent publicly visible information on linked pages; many catalogs/bulletins omit instructor names. Where section-term pages or syllabi exist, those are linked and used for attribution.
