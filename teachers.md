@@ -3,7 +3,6 @@
 | University | Course (Number — Title) | Instructor(s) | Term/Year | Syllabus / Course Page |
 |---|---|---|---|---|
 | University of Virginia | ASTR 3130 — Observational Astronomy | Steven R. Majewski | Spring 2024/2025 | [Course page](https://srmastro.uvacreate.virginia.edu/astr313/index.html), [Lou's List](https://louslist.org/page.php?Group=Astronomy&Semester=1252&Type=Group) |
-| University of Virginia | ASTR 1230 — Introduction to Astronomical Observation | Edward Murphy (recent); Ricky Patterson (Spring 2015 example) | Recent; Spring 2015 | [Course page](https://www.astro.virginia.edu/class/astr1230/), [Syllabus (arch.)](https://srmastro.uvacreate.virginia.edu/astr1230/syl.html) |
 | University of Florida | AST 3722 — Observational Techniques in Astronomy | Jamie Tayar | Spring 2023 | [Syllabus](https://people.clas.ufl.edu/jtayar/ast3722/) |
 | Cornell University | ASTRO 4410 — Multiwavelength Astronomical Techniques | James M. Cordes; Gordon J. Stacey | Fall 2025 (scheduled) | [Roster page](https://classes.cornell.edu/browse/roster/FA25/class/ASTRO/4410) |
 | University of Arizona | ASTR 302 — Introduction to Observational Astronomy | Dennis Zaritsky; Elizabeth Green | Recent Spring offering | [Department schedule](https://astro.arizona.edu/academics/class-schedule), [Catalog](https://catalog.arizona.edu/courses/0088231) |
