@@ -14,7 +14,5 @@
 | College of Staten Island (CUNY) | AST 105 — Observational Astronomy | Not listed on catalog page | — | [Catalog](https://csi-undergraduate.catalog.cuny.edu/courses/0616791) |
 | University of Sheffield | PHY217 — Observational Astronomy (legacy materials) | Vik Dhillon (materials) | Legacy | [Materials](https://sheffield-mps.github.io/PHY217/) |
 | Rochester Institute of Technology | AST 613 — Astronomical Observational Techniques and Instrumentation | Michael Richmond | Fall 2025 | [Syllabus](http://spiff.rit.edu/classes/ast613/ast613.html) |
-
-Notes
-- Entries reflect the most recent publicly visible information on linked pages; many catalogs/bulletins omit instructor names. Where section-term pages or syllabi exist, those are linked and used for attribution.
-- Example confirmation per request: Jamie Tayar taught AST 3722 at UF in Spring 2023 (see syllabus link above).
+| Rochester Institute of Technology | PHYS 373 — Observational Astronomy | Michael Richmond | Spring 2024 | [Syllabus](http://spiff.rit.edu/classes/phys373/phys373.html) |
+| University of Toledo | AST 4880 - Astrophysical Measurements | Tom Megeath | Fall 2025 | ... |
